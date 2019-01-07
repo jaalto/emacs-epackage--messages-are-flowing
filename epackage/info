@@ -1,0 +1,21 @@
+Package: messages-are-flowing
+Section: extensions
+License: GPL-3+
+Depends: emacs (>= 22)
+Status: stable
+Archive:
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Magnus Henoch <magnus.henoch@gmail.com>
+Upstream-Bugs: https://github.com/legoscia/messages-are-flowing/issues
+Vcs-Type: git
+Vcs-Url: https://github.com/legoscia/messages-are-flowing.git
+Vcs-Browser: https://github.com/legoscia/messages-are-flowing
+Homepage: https://github.com/legoscia/messages-are-flowing
+Wiki: https://www.emacswiki.org/emacs/FormatFlowed
+Commentary:
+Description: visible indication when composing "flowed" emails
+ [<TODO Longer description>]
+
+
